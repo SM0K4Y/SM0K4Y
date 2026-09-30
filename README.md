@@ -1,52 +1,69 @@
-# Hey, I'm Arib 👋
+<div align="center">
 
-### Self-taught developer & tech enthusiast
+# `> hello, i'm Smokey`
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-000000?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=white" />
-</p>
+### self-taught developer • tech enthusiast • builder
 
-I enjoy learning new technologies, building projects, experimenting with ideas, and improving my skills through hands-on development.
+I learn by building, breaking, fixing, and repeating.
 
-## 🚀 Currently Working On
-
-- Full-stack web development
-- JavaScript and Node.js projects
-- Discord bots and automation
-- Exploring AI and cybersecurity
-- Building projects for my portfolio
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Development
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Discord.js](https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=5865F2)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-## 📫 Reach Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
-
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_DISCORD_ID)
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+</div>
 
 ---
 
-### `Learning. Building. Improving.` 🚀
+## `01 // who am i`
+
+I'm a self-taught developer who enjoys turning ideas into real projects.
+
+Mostly interested in:
+`development` • `coding` • `AI` • `cybersecurity`
+
+---
+
+## `02 // currently working on`
+
+```txt
+▸ full-stack web projects
+▸ improving my full-stack development skills
+▸ building projects with JavaScript & Node.js
+▸ exploring AI and cybersecurity
+▸ experimenting with bots, automation, and useful side projects
+▸ always learning something new
+```
+
+---
+
+## `03 // tools`
+
+<p align="left">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+</p>
+
+---
+
+## `04 // reach me`
+
+<p align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+
+</p>
+
+---
+
+<div align="center">
+
+### `build → break → debug → improve`
+
+</div>
